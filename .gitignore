@@ -1,0 +1,5 @@
+/.metadata/
+.DS_Store
+.project
+.pydevproject
+**/.settings/*
