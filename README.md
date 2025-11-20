@@ -1,4 +1,4 @@
-# Library Book Curation API
+# This is a fictional project created exclusively for analysis as part of my AI capstone project - Library Book Curation API
 
 A FastAPI-based library management system deployed on Google Cloud Platform (GCP) with Kubernetes (GKE), Cloud SQL, and OpenTelemetry integration. Built with a clean layered architecture for maintainability and scalability.
 
